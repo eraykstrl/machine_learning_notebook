@@ -1,9 +1,9 @@
 from sklearn.ensemble import RandomForestRegressor
 import xgboost as xgb
 import lightgbm as lgb
-from data import Data
-from preprocessing import Preprocessing
-from model import Model
+from machine_learning.data import Data
+from machine_learning.preprocessing import Preprocessing
+from machine_learning.model import Model
 
 
 
