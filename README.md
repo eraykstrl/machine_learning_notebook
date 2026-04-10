@@ -1,5 +1,5 @@
 ## Data Source & Acknowledgements
 
-The dataset used in this project is the **[Job Salary Prediction Dataset](https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset)**, provided by **Aleesha Nadeem (Nalisha)** on Kaggle. 
+The datasets used in this project are the **[Job Salary Prediction Dataset](https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset)** provided by **Aleesha Nadeem (Nalisha)** on Kaggle, and the classic **[Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)**.
 
-I would like to thank the dataset creator for making this comprehensive data publicly available for machine learning and analytical purposes.
+I would like to thank the dataset creators for making these data publicly available.
