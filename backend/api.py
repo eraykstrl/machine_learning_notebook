@@ -7,7 +7,7 @@ app = FastAPI()
 
 @app.get('/')
 async def root():
-  return {"message" : "Bağlantı Başarılı"}
+  return {"message" : "Connection is successful"}
 
 
 @app.get('/data/{data}')
@@ -35,6 +35,13 @@ async def read_data(payload : dict):
       "status" : "error",
       "message" : "Beklenmedik bir hata oluştu {e}"
     }
+  
+
+@app.get('/result/{result}')
+async def get_result():
+
+  try:
+    
 
 
 
